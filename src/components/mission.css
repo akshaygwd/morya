@@ -1,0 +1,34 @@
+.mission {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #84C323;
+}
+
+.mission h2,
+.mission span {
+    display: block;
+    text-align: center;
+}
+
+.mission-items ul {
+    margin-top: 50px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mission-items ul li {
+    flex-basis: 33%;
+}
+
+.mission-item {
+    display: flex;
+}
+
+.mission-item-image {
+    flex-basis: 30%;
+}
+
+.mission-content {
+    flex-basis: 60%;
+}

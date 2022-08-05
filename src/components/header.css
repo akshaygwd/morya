@@ -1,0 +1,28 @@
+.header {
+    background-color: #ECC731;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__container h1 {
+    margin-bottom: 0;
+}
+
+.header__image {
+    width: 75px;
+    height: 75px;
+}
+
+.header__navlinks {
+    display: flex;
+    list-style: none;
+    margin-bottom: 0;
+    align-items: center;
+}
+
+.header__navlinks li{
+    margin-left: 50px;
+}

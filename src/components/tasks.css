@@ -1,0 +1,29 @@
+.tasks {
+    padding-bottom: 50px;
+}
+
+.tasks h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.tasks ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tasks ul li {
+    padding: 0 20px;
+    flex-basis: 33.33%;
+    margin-bottom: 20px;
+}
+
+.image-wrapper {
+    margin-bottom: 10px;
+}
+
+.image-wrapper img {
+    margin: 0 auto;
+    display: block;
+}
