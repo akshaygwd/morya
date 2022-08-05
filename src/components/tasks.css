@@ -26,4 +26,6 @@
 .image-wrapper img {
     margin: 0 auto;
     display: block;
+    width: 300px;
+    height: 300px;
 }

@@ -8,7 +8,7 @@ import Mission from './mission';
 const Home = () => {
     return(
         <main>
-            <Carousel showArrows={true} autoPlay={true} showThumbs={false}>
+            <Carousel showArrows={true} autoPlay={true} showThumbs={false} infiniteLoop={true}>
                 <div>
                     <img src="images/banner1.jpg" height="500px" alt="leg1" />
                     <p className="legend">Legend 1</p>

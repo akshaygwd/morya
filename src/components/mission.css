@@ -29,6 +29,10 @@
     flex-basis: 30%;
 }
 
+.mission-item-image img {
+    width: 75px;
+}
+
 .mission-content {
     flex-basis: 60%;
 }
