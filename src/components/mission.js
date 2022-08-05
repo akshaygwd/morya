@@ -10,7 +10,7 @@ const Mission = () => {
                     <li>
                         <div className='mission-item'>
                             <div className='mission-item-image'>
-                                <img src="https://via.placeholder.com/75" alt="img" />
+                                <img src="https://via.placeholder.com/75" alt="img1" />
                             </div>
                             <div className='mission-content'>
                                 <h3>Charity For Education</h3>
@@ -21,7 +21,7 @@ const Mission = () => {
                     <li>
                         <div className='mission-item'>
                             <div className='mission-item-image'>
-                                <img src="https://via.placeholder.com/75" alt="img" />
+                                <img src="https://via.placeholder.com/75" alt="img2" />
                             </div>
                             <div className='mission-content'>
                                 <h3>Feed For Hungry Child</h3>
@@ -32,7 +32,7 @@ const Mission = () => {
                     <li>
                         <div className='mission-item'>
                             <div className='mission-item-image'>
-                                <img src="https://via.placeholder.com/75" alt="img" />
+                                <img src="https://via.placeholder.com/75" alt="img3" />
                             </div>
                             <div className='mission-content'>
                                 <h3>Home For Homeless</h3>
@@ -43,7 +43,7 @@ const Mission = () => {
                     <li>
                         <div className='mission-item'>
                             <div className='mission-item-image'>
-                                <img src="https://via.placeholder.com/75" alt="img" />
+                                <img src="https://via.placeholder.com/75" alt="img4" />
                             </div>
                             <div className='mission-content'>
                                 <h3>Charity For Education</h3>
@@ -54,7 +54,7 @@ const Mission = () => {
                     <li>
                         <div className='mission-item'>
                             <div className='mission-item-image'>
-                                <img src="https://via.placeholder.com/75" alt="img" />
+                                <img src="https://via.placeholder.com/75" alt="img5" />
                             </div>
                             <div className='mission-content'>
                                 <h3>Charity For Education</h3>
@@ -65,7 +65,7 @@ const Mission = () => {
                     <li>
                         <div className='mission-item'>
                             <div className='mission-item-image'>
-                                <img src="https://via.placeholder.com/75" alt="img" />
+                                <img src="https://via.placeholder.com/75" alt="img6" />
                             </div>
                             <div className='mission-content'>
                                 <h3>Charity For Education</h3>

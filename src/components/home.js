@@ -10,22 +10,22 @@ const Home = () => {
         <main>
             <Carousel showArrows={true} autoPlay={true} showThumbs={false}>
                 <div>
-                    <img src="images/banner1.jpg" height="500px" />
+                    <img src="images/banner1.jpg" height="500px" alt="leg1" />
                     <p className="legend">Legend 1</p>
                 </div>
                 <div>
-                    <img src="images/banner2.jpg" height="500px" />
+                    <img src="images/banner2.jpg" height="500px" alt="leg2" />
                     <p className="legend">Legend 2</p>
                 </div>
                 <div>
-                    <img src="images/banner3.jpg" height="500px" />
+                    <img src="images/banner3.jpg" height="500px" alt="leg3" />
                     <p className="legend">Legend 3</p>
                 </div>
             </Carousel>
             <div className='gallary'>
                 <Container>
                     <div className='logo'>
-                        <img src="images/morya-logo.jpeg" width="200" />
+                        <img src="images/morya-logo.jpeg" width="200" alt="leg4" />
                     </div>
                     <Tasks />
                 </Container>
