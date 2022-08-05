@@ -1,4 +1,3 @@
-import react from 'react';
 import { Container } from 'reactstrap';
 import './footer.css';
 

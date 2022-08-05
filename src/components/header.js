@@ -1,4 +1,3 @@
-import react from 'react';
 import { NavLink } from 'react-router-dom';
 import { Container } from 'reactstrap';
 import './header.css';
